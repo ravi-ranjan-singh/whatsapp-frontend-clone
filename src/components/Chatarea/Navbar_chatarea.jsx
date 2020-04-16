@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="chatarea-navbar">
       <div className="user-dp-image">
         <img src={require('./../../dist/img/dp1.jpg')} alt="display-pic" />
-        <span style={{ paddingLeft: 10 }}>Arpit Mishra</span>
+        <span style={{ paddingLeft: 10 }}>Tony Stark</span>
       </div>
       <div className="chatarea-nav-items">
         <li>
